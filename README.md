@@ -1,6 +1,6 @@
 # Shenanigans1
 
-Small sample app that demonstrates a simple "focus mode" using Java Swing.
+Small sample app that demonstrates a simple "ransomware" using Java Swing.
 
 ## Files
 
